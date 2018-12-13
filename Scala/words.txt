@@ -1,0 +1,17 @@
+hello word objective-c hive
+hello java python
+hello python mysql
+hello hbase python
+hello word swift redies
+hello java oracle sqoop
+hello python swift pig
+hello redies c++ mysql
+hello python matlab
+hello java c++ matlab
+hello python sqoop
+hello word sqoop objective-c
+hello java zookeeper
+hello python matlab
+hello word mongodb
+hello java mysql hbase
+hello python swift
